@@ -1,1 +1,1 @@
-# Guide to the Software Engineer Interview
+# Guide to the Software Engineering Technical Interview
