@@ -515,3 +515,5 @@ or equal to those of the children and the lowest key is in the root node
 
 18 directories, 124 files
 ```
+
+Credit to our friend - Maintainer - [Kevin Naughton Jr.]
