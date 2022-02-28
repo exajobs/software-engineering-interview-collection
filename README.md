@@ -1,1 +1,1 @@
-# software-engineer-interview-collection
+# Guide to the Software Engineer Interview
