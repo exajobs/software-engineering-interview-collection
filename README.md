@@ -6,7 +6,7 @@
 
 - [简体中文](./README-zh-cn.md)
 
-## Table of Contents
+## `Table of Contents`
 - [YouTube](#youtube)
 - [The Daily Byte](#the-daily-byte)
 - [Instagram](#instagram)
@@ -23,16 +23,16 @@
 - [Computer Science News](#computer-science-news)
 - [Directory Tree](#directory-tree)
 
-## YouTube
+## `YouTube`
 * [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 
-## The Daily Byte
+## `The Daily Byte`
 * [FAANG Interview Prep](https://bit.ly/2BaaSaK)
 
-## Instagram 
+## `Instagram` 
 * [Kevin Naughton Jr.](https://bit.ly/2SM8SLZ)
 
-## Articles
+## `Articles`
 * [Starting Work](https://medium.com/@Naughton/starting-work-b06e10f6007e)
 
 ## Online Judges
